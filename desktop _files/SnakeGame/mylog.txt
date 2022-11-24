@@ -1,0 +1,2682 @@
+
+Frame number 1
+temp buffer : 201, 151, 152, 153, 154, 155, 156, 157, 158, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 151, 152, 153, 154, 155, 156, 157, 158, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 2
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 3
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 4
+temp buffer : 201, 150, 151, 152, 153, 154, 155, 156, 157, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 150, 151, 152, 153, 154, 155, 156, 157, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 5
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 6
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 7
+temp buffer : 201, 149, 150, 151, 152, 153, 154, 155, 156, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 149, 150, 151, 152, 153, 154, 155, 156, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 8
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 9
+temp buffer : 201, 148, 149, 150, 151, 152, 153, 154, 155, 200, 124, 200, 98, 200,  length=14
+NOT PURE : 201, 148, 149, 150, 151, 152, 153, 154, 155, 200, 124, 200, 98, 200, 
+
+Frame number 10
+temp buffer : 31, 200, 6, 202,  length=4
+start = 1 end = 17
+PURE BUFFER : 148, 149, 150, 151, 152, 153, 154, 155, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 11
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 12
+temp buffer : 201, 147, 148, 149, 150, 151, 152, 153, 154, 200, 124, 200, 98, 200, 31,  length=15
+NOT PURE : 201, 147, 148, 149, 150, 151, 152, 153, 154, 200, 124, 200, 98, 200, 31, 
+
+Frame number 13
+temp buffer : 200, 6, 202,  length=3
+start = 1 end = 17
+PURE BUFFER : 147, 148, 149, 150, 151, 152, 153, 154, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 14
+temp buffer :  length=0
+NOT PURE : 
+w sent...
+
+Frame number 15
+temp buffer : 201, 146, 147, 148, 149, 150, 151, 152, 153, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 146, 147, 148, 149, 150, 151, 152, 153, 200, 124, 200, 98, 200, 31, 200, 6, 
+w sent...
+
+Frame number 16
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 17
+temp buffer :  length=0
+NOT PURE : 
+a sent...
+
+Frame number 18
+temp buffer : 201, 145, 146, 147, 148, 149, 150, 151, 152, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 145, 146, 147, 148, 149, 150, 151, 152, 200, 124, 200, 98, 200, 31, 200, 6, 
+a sent...
+
+Frame number 19
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 20
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 21
+temp buffer : 201, 144, 145, 146, 147, 148, 149, 150, 151, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 144, 145, 146, 147, 148, 149, 150, 151, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 22
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 23
+temp buffer :  length=0
+NOT PURE : 
+w sent...
+
+Frame number 24
+temp buffer : 201, 143, 144, 145, 146, 147, 148, 149, 150, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 143, 144, 145, 146, 147, 148, 149, 150, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 25
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 26
+temp buffer : 201, 123, 143, 144, 145, 146, 147, 148, 149, 200, 124, 200, 120, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 123, 143, 144, 145, 146, 147, 148, 149, 200, 124, 200, 120, 200, 31, 200, 6, 
+a sent...
+
+Frame number 27
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 28
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 29
+temp buffer : 201, 122, 123, 143, 144, 145, 146, 147, 148, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 122, 123, 143, 144, 145, 146, 147, 148, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 30
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 31
+temp buffer :  length=0
+NOT PURE : 
+a sent...
+
+Frame number 32
+temp buffer : 201, 121, 122, 123, 143, 144, 145, 146, 147, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 121, 122, 123, 143, 144, 145, 146, 147, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 33
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 34
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 35
+temp buffer : 201, 140, 121, 122, 123, 143, 144, 145, 146, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 140, 121, 122, 123, 143, 144, 145, 146, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 36
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 37
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 38
+temp buffer : 201, 139, 140, 121, 122, 123, 143, 144, 145, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 139, 140, 121, 122, 123, 143, 144, 145, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 39
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 40
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 41
+temp buffer : 201, 138, 139, 140, 121, 122, 123, 143, 144, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 138, 139, 140, 121, 122, 123, 143, 144, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 42
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 43
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 44
+temp buffer : 201, 137, 138, 139, 140, 121, 122, 123, 143, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 137, 138, 139, 140, 121, 122, 123, 143, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 45
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 46
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 47
+temp buffer : 201, 136, 137, 138, 139, 140, 121, 122, 123, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 136, 137, 138, 139, 140, 121, 122, 123, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 48
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 49
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 50
+temp buffer : 201, 135, 136, 137, 138, 139, 140, 121, 122, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 135, 136, 137, 138, 139, 140, 121, 122, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 51
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 52
+temp buffer : 201, 134, 135, 136, 137,  length=5
+NOT PURE : 201, 134, 135, 136, 137, 
+
+Frame number 53
+temp buffer : 138, 139, 140, 121, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=13
+start = 1 end = 17
+PURE BUFFER : 134, 135, 136, 137, 138, 139, 140, 121, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 54
+temp buffer :  length=0
+NOT PURE : 
+F pressed
+
+Frame number 55
+temp buffer : 201, 133, 134, 135, 136,  length=5
+NOT PURE : 201, 133, 134, 135, 136, 
+
+Frame number 56
+temp buffer : 137, 138, 139, 140, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=13
+start = 1 end = 17
+PURE BUFFER : 133, 134, 135, 136, 137, 138, 139, 140, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 57
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 58
+temp buffer : 201, 132, 133, 134, 135, 136, 137,  length=7
+NOT PURE : 201, 132, 133, 134, 135, 136, 137, 
+
+Frame number 59
+temp buffer : 138, 139, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=11
+start = 1 end = 17
+PURE BUFFER : 132, 133, 134, 135, 136, 137, 138, 139, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 60
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 61
+temp buffer : 201, 131, 132, 133, 134, 135, 136, 137, 138, 200, 124, 200,  length=12
+NOT PURE : 201, 131, 132, 133, 134, 135, 136, 137, 138, 200, 124, 200, 
+
+Frame number 62
+temp buffer : 98, 200, 31, 200, 6, 202,  length=6
+start = 1 end = 17
+PURE BUFFER : 131, 132, 133, 134, 135, 136, 137, 138, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 63
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 64
+temp buffer : 201, 130, 131, 132, 133, 134, 135, 136, 137, 200, 124, 200,  length=12
+NOT PURE : 201, 130, 131, 132, 133, 134, 135, 136, 137, 200, 124, 200, 
+
+Frame number 65
+temp buffer : 98, 200, 31, 200, 6, 202,  length=6
+start = 1 end = 17
+PURE BUFFER : 130, 131, 132, 133, 134, 135, 136, 137, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 66
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 67
+temp buffer : 201, 129, 130, 131, 132, 133, 134, 135, 136, 200, 124, 200, 98, 200,  length=14
+NOT PURE : 201, 129, 130, 131, 132, 133, 134, 135, 136, 200, 124, 200, 98, 200, 
+
+Frame number 68
+temp buffer : 31, 200, 6, 202,  length=4
+start = 1 end = 17
+PURE BUFFER : 129, 130, 131, 132, 133, 134, 135, 136, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 69
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 70
+temp buffer : 201, 128, 129, 130, 131, 132, 133, 134, 135, 200, 124, 200, 98, 200, 31,  length=15
+NOT PURE : 201, 128, 129, 130, 131, 132, 133, 134, 135, 200, 124, 200, 98, 200, 31, 
+
+Frame number 71
+temp buffer : 200, 6, 202,  length=3
+start = 1 end = 17
+PURE BUFFER : 128, 129, 130, 131, 132, 133, 134, 135, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 72
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 73
+temp buffer : 201, 127, 128, 129, 130, 131, 132, 133, 134, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 127, 128, 129, 130, 131, 132, 133, 134, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 74
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 75
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 76
+temp buffer : 201, 126, 127, 128, 129, 130, 131, 132, 133, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 126, 127, 128, 129, 130, 131, 132, 133, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 77
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 78
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 79
+temp buffer : 201, 125, 126, 127, 128, 129, 130, 131, 132, 200, 124, 200, 98, 200, 31, 200, 6, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 125, 126, 127, 128, 129, 130, 131, 132, 200, 124, 200, 98, 200, 31, 200, 6, 
+
+Frame number 80
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 81
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 82
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 83
+temp buffer : 201, 124, 125, 126, 127, 128, 129, 130, 131, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=18
+start = 1 end = 17
+PURE BUFFER : 124, 125, 126, 127, 128, 129, 130, 131, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 84
+temp buffer : 201, 123, 124, 125, 126, 127, 128, 129, 130, 131, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 123, 124, 125, 126, 127, 128, 129, 130, 131, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 85
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 86
+temp buffer : 201, 122, 123, 124, 125, 126, 127, 128, 129, 130, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 122, 123, 124, 125, 126, 127, 128, 129, 130, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 87
+temp buffer :  length=0
+NOT PURE : 
+w sent...
+
+Frame number 88
+temp buffer : 201, 102, 122, 123, 124, 125, 126, 127, 128, 129, 200, 119, 200, 120, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 102, 122, 123, 124, 125, 126, 127, 128, 129, 200, 119, 200, 120, 200, 31, 200, 9, 
+w sent...
+
+Frame number 89
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 90
+temp buffer : 201, 82, 102, 122, 123, 124, 125, 126, 127, 128, 200, 119, 200, 120, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 82, 102, 122, 123, 124, 125, 126, 127, 128, 200, 119, 200, 120, 200, 31, 200, 9, 
+
+Frame number 91
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 92
+temp buffer : 201, 62, 82, 102, 122, 123, 124, 125, 126, 127, 200, 119, 200, 120, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 62, 82, 102, 122, 123, 124, 125, 126, 127, 200, 119, 200, 120, 200, 31, 200, 9, 
+a sent...
+
+Frame number 93
+temp buffer :  length=0
+NOT PURE : 
+a sent...
+
+Frame number 94
+temp buffer : 201, 61, 62, 82, 102, 122, 123, 124, 125, 126, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 61, 62, 82, 102, 122, 123, 124, 125, 126, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 95
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 96
+temp buffer : 201, 80, 61, 62, 82, 102, 122, 123, 124, 125, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 80, 61, 62, 82, 102, 122, 123, 124, 125, 200, 119, 200, 98, 200, 31, 200, 9, 
+s sent...
+
+Frame number 97
+temp buffer :  length=0
+NOT PURE : 
+s sent...
+
+Frame number 98
+temp buffer : 201, 100, 80, 61, 62, 82, 102, 122, 123, 124, 200, 119, 200, 116, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 100, 80, 61, 62, 82, 102, 122, 123, 124, 200, 119, 200, 116, 200, 31, 200, 9, 
+a sent...
+
+Frame number 99
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 100
+temp buffer : 201, 99, 100, 80, 61, 62, 82, 102, 122, 123, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 99, 100, 80, 61, 62, 82, 102, 122, 123, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 101
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 102
+temp buffer : 201, 98, 99, 100, 80, 61, 62, 82, 102, 122, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 98, 99, 100, 80, 61, 62, 82, 102, 122, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 103
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 104
+temp buffer : 201, 97, 98, 99, 100, 80, 61, 62, 82, 102, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 97, 98, 99, 100, 80, 61, 62, 82, 102, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 105
+temp buffer :  length=0
+NOT PURE : 
+s sent...
+
+Frame number 106
+temp buffer : 201, 96, 97, 98, 99, 100, 80, 61, 62, 82, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 96, 97, 98, 99, 100, 80, 61, 62, 82, 200, 119, 200, 98, 200, 31, 200, 9, 
+s sent...
+
+Frame number 107
+temp buffer :  length=0
+NOT PURE : 
+a sent...
+
+Frame number 108
+temp buffer : 201, 95, 96, 97, 98, 99, 100, 80, 61, 62, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 95, 96, 97, 98, 99, 100, 80, 61, 62, 200, 119, 200, 98, 200, 31, 200, 9, 
+a sent...
+
+Frame number 109
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 110
+temp buffer : 201, 94, 95, 96, 97, 98, 99, 100, 80, 61, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 94, 95, 96, 97, 98, 99, 100, 80, 61, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 111
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 112
+temp buffer : 201, 93, 94, 95, 96, 97, 98, 99, 100, 80, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 93, 94, 95, 96, 97, 98, 99, 100, 80, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 113
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 114
+temp buffer : 201, 92, 93, 94, 95, 96, 97, 98, 99, 100, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 92, 93, 94, 95, 96, 97, 98, 99, 100, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 115
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 116
+temp buffer : 201, 91, 92, 93, 94, 95, 96, 97, 98, 99, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 91, 92, 93, 94, 95, 96, 97, 98, 99, 200, 119, 200, 98, 200, 31, 200, 9, 
+s sent...
+
+Frame number 117
+temp buffer :  length=0
+NOT PURE : 
+s sent...
+
+Frame number 118
+temp buffer : 201, 111, 91, 92, 93, 94, 95, 96, 97, 98, 200, 119, 200, 116, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 111, 91, 92, 93, 94, 95, 96, 97, 98, 200, 119, 200, 116, 200, 31, 200, 9, 
+a sent...
+
+Frame number 119
+temp buffer :  length=0
+NOT PURE : 
+a sent...
+
+Frame number 120
+temp buffer : 201, 110, 111, 91, 92, 93, 94, 95, 96, 97, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 110, 111, 91, 92, 93, 94, 95, 96, 97, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 121
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 122
+temp buffer : 201, 109, 110, 111, 91, 92, 93, 94, 95, 96, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 109, 110, 111, 91, 92, 93, 94, 95, 96, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 123
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 124
+temp buffer : 201, 108, 109, 110, 111, 91, 92, 93, 94, 95, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 108, 109, 110, 111, 91, 92, 93, 94, 95, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 125
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 126
+temp buffer : 201, 107, 108, 109, 110, 111, 91, 92, 93, 94, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 107, 108, 109, 110, 111, 91, 92, 93, 94, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 127
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 128
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 91, 92, 93, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 91, 92, 93, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 129
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 130
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 91, 92, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 91, 92, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 131
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 132
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 91, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 91, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 133
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 134
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 135
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 136
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 137
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 138
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 139
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 140
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 119, 200, 98, 200, 31, 200, 9, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 119, 200, 98, 200, 31, 200, 9, 
+
+Frame number 141
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 142
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 41, 200, 12, 202,  length=19
+start = 1 end = 18
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 41, 200, 12, 
+
+Frame number 143
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 144
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 145
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 146
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 147
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 148
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 149
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 150
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 151
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 152
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 153
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 154
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 155
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 156
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 157
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 158
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 159
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 160
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 161
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 162
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 163
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 164
+temp buffer : 201, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 165
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 166
+temp buffer : 201, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 167
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 168
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 169
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 170
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 171
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 172
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 173
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 174
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 175
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 176
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 177
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 178
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 179
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 180
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 181
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 182
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 183
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 184
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 185
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 186
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 187
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 188
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 189
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 190
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 191
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 192
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 193
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 194
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 195
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 196
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 197
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 198
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 199
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 200
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 201
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 202
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 203
+temp buffer : 201, 108,  length=2
+NOT PURE : 201, 108, 
+
+Frame number 204
+temp buffer : 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=18
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 205
+temp buffer : 201, 107, 108, 109, 110,  length=5
+NOT PURE : 201, 107, 108, 109, 110, 
+
+Frame number 206
+temp buffer : 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=15
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 207
+temp buffer : 201, 106, 107, 108, 109,  length=5
+NOT PURE : 201, 106, 107, 108, 109, 
+
+Frame number 208
+temp buffer : 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=15
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 209
+temp buffer : 201, 105, 106, 107, 108, 109, 110,  length=7
+NOT PURE : 201, 105, 106, 107, 108, 109, 110, 
+
+Frame number 210
+temp buffer : 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=13
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 211
+temp buffer : 201, 104, 105, 106, 107, 108, 109,  length=7
+NOT PURE : 201, 104, 105, 106, 107, 108, 109, 
+
+Frame number 212
+temp buffer : 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=13
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 213
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110,  length=9
+NOT PURE : 201, 103, 104, 105, 106, 107, 108, 109, 110, 
+
+Frame number 214
+temp buffer : 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=11
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 215
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110,  length=10
+NOT PURE : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 
+
+Frame number 216
+temp buffer : 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=10
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 217
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200,  length=14
+NOT PURE : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 
+
+Frame number 218
+temp buffer : 98, 200, 31, 200, 12, 202,  length=6
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 219
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200,  length=16
+NOT PURE : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 
+
+Frame number 220
+temp buffer : 31, 200, 12, 202,  length=4
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 221
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200,  length=16
+NOT PURE : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 
+
+Frame number 222
+temp buffer : 31, 200, 12, 202,  length=4
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 223
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31,  length=17
+NOT PURE : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 
+
+Frame number 224
+temp buffer : 200, 12, 202,  length=3
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 225
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 226
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 227
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 228
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 229
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 230
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 231
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 232
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 233
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 234
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 235
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 236
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 237
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 238
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 239
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 240
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 241
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 242
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 243
+temp buffer : 201, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 244
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 245
+temp buffer : 201, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 246
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 247
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 248
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 249
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 250
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 251
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 252
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 253
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 254
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 255
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 256
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 257
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 258
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 259
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 260
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 261
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 262
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 263
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 264
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 265
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 266
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 267
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 268
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 269
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 270
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 271
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 272
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 273
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 274
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 275
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 276
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 277
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 278
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 279
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 280
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 281
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 282
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 283
+temp buffer : 201, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 284
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 285
+temp buffer : 201, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 286
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 287
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 288
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 289
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 290
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 291
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 292
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 293
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 294
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 295
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 296
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 297
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 298
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 299
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 300
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 301
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 302
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 303
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 304
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 305
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 306
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 307
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 308
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 309
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 310
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 311
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 312
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 313
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 314
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 315
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 316
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 317
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 318
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 319
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 320
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 321
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 322
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 323
+temp buffer : 201, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 324
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 325
+temp buffer : 201, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 326
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 327
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 328
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 329
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 330
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 331
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 332
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 333
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 334
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 335
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 336
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 337
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 338
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 339
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 340
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 341
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 342
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 343
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 344
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 345
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 346
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 347
+temp buffer : 201, 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 348
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 349
+temp buffer : 201, 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 350
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 351
+temp buffer : 201, 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 352
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 353
+temp buffer : 201, 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 354
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 355
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 356
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 357
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 358
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 359
+temp buffer : 201, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 360
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 361
+temp buffer : 201, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 362
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 363
+temp buffer : 201, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 364
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 365
+temp buffer : 201, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 366
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 367
+temp buffer : 201, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 368
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 369
+temp buffer : 201, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 370
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 371
+temp buffer : 201, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 372
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 373
+temp buffer : 201, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 374
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 375
+temp buffer : 201, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 376
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 377
+temp buffer : 201, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 378
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 379
+temp buffer : 201, 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 120, 101, 102, 103, 104, 105, 106, 107, 108, 109, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 380
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 381
+temp buffer : 201, 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 119, 120, 101, 102, 103, 104, 105, 106, 107, 108, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 382
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 383
+temp buffer : 201, 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 118, 119, 120, 101, 102, 103, 104, 105, 106, 107, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 384
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 385
+temp buffer : 201, 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 118, 119, 120, 101, 102, 103, 104, 105, 106, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 386
+temp buffer : 201, 116,  length=2
+NOT PURE : 201, 116, 
+
+Frame number 387
+temp buffer : 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 202, 98, 200, 31, 200, 12, 202,  length=18
+start = 1 end = 13
+PURE BUFFER : 116, 117, 118, 119, 120, 101, 102, 103, 104, 105, 200, 98, 
+
+Frame number 388
+temp buffer : 201, 115, 116,  length=3
+NOT PURE : 201, 115, 116, 
+
+Frame number 389
+temp buffer : 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=17
+start = 1 end = 19
+PURE BUFFER : 115, 116, 117, 118, 119, 120, 101, 102, 103, 104, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 390
+temp buffer : 201, 114, 115, 116, 117,  length=5
+NOT PURE : 201, 114, 115, 116, 117, 
+
+Frame number 391
+temp buffer : 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=15
+start = 1 end = 19
+PURE BUFFER : 114, 115, 116, 117, 118, 119, 120, 101, 102, 103, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 392
+temp buffer : 201, 113, 114, 115, 116, 117,  length=6
+NOT PURE : 201, 113, 114, 115, 116, 117, 
+
+Frame number 393
+temp buffer : 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=14
+start = 1 end = 19
+PURE BUFFER : 113, 114, 115, 116, 117, 118, 119, 120, 101, 102, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 394
+temp buffer : 201, 112, 113, 114, 115, 116, 117, 118,  length=8
+NOT PURE : 201, 112, 113, 114, 115, 116, 117, 118, 
+
+Frame number 395
+temp buffer : 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=12
+start = 1 end = 19
+PURE BUFFER : 112, 113, 114, 115, 116, 117, 118, 119, 120, 101, 200, 98, 200, 98, 200, 31, 200, 12, 
+
+Frame number 396
+temp buffer : 201, 111, 112, 113, 114, 115, 116, 117,  length=8
+NOT PURE : 201, 111, 112, 113, 114, 115, 116, 117, 
+
+Frame number 397
+temp buffer : 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 202,  length=12
+start = 1 end = 19
+PURE BUFFER : 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 200, 98, 200, 98, 200, 31, 200, 12, 
+w sent...
+
+Frame number 398
+temp buffer : 201, 91, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200,  length=12
+NOT PURE : 201, 91, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 
+w sent...
+
+Frame number 399
+temp buffer : 98, 200, 120, 200, 31, 200, 12, 202,  length=8
+start = 1 end = 19
+PURE BUFFER : 91, 111, 112, 113, 114, 115, 116, 117, 118, 119, 200, 98, 200, 120, 200, 31, 200, 12, 
+w sent...
+
+Frame number 400
+temp buffer : 201, 71, 91, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98,  length=13
+NOT PURE : 201, 71, 91, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 
+
+Frame number 401
+temp buffer : 200, 120, 200, 31, 200, 12, 202,  length=7
+start = 1 end = 19
+PURE BUFFER : 71, 91, 111, 112, 113, 114, 115, 116, 117, 118, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 402
+temp buffer : 201, 51, 71, 91, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200,  length=14
+NOT PURE : 201, 51, 71, 91, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 
+
+Frame number 403
+temp buffer : 120, 200, 31, 200, 12, 202,  length=6
+start = 1 end = 19
+PURE BUFFER : 51, 71, 91, 111, 112, 113, 114, 115, 116, 117, 200, 98, 200, 120, 200, 31, 200, 12, 
+d sent...
+
+Frame number 404
+temp buffer : 201, 52, 51, 71, 91, 111, 112, 113, 114, 115, 116, 200, 98, 200,  length=14
+NOT PURE : 201, 52, 51, 71, 91, 111, 112, 113, 114, 115, 116, 200, 98, 200, 
+d sent...
+
+Frame number 405
+temp buffer : 101, 200, 31, 200, 12, 202,  length=6
+start = 1 end = 19
+PURE BUFFER : 52, 51, 71, 91, 111, 112, 113, 114, 115, 116, 200, 98, 200, 101, 200, 31, 200, 12, 
+d sent...
+
+Frame number 406
+temp buffer : 201, 53, 52, 51, 71, 91, 111, 112, 113, 114, 115, 200, 98, 200, 101, 200, 31,  length=17
+NOT PURE : 201, 53, 52, 51, 71, 91, 111, 112, 113, 114, 115, 200, 98, 200, 101, 200, 31, 
+
+Frame number 407
+temp buffer : 200, 12, 202,  length=3
+start = 1 end = 19
+PURE BUFFER : 53, 52, 51, 71, 91, 111, 112, 113, 114, 115, 200, 98, 200, 101, 200, 31, 200, 12, 
+
+Frame number 408
+temp buffer : 201, 54, 53, 52, 51, 71, 91, 111, 112, 113, 114, 200, 98, 200, 101, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 54, 53, 52, 51, 71, 91, 111, 112, 113, 114, 200, 98, 200, 101, 200, 31, 200, 12, 
+
+Frame number 409
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 410
+temp buffer : 201, 55, 54, 53, 52, 51, 71, 91, 111, 112, 113, 200, 98, 200, 101, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 55, 54, 53, 52, 51, 71, 91, 111, 112, 113, 200, 98, 200, 101, 200, 31, 200, 12, 
+
+Frame number 411
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 412
+temp buffer : 201, 56, 55, 54, 53, 52, 51, 71, 91, 111, 112, 200, 98, 200, 101, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 56, 55, 54, 53, 52, 51, 71, 91, 111, 112, 200, 98, 200, 101, 200, 31, 200, 12, 
+
+Frame number 413
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 414
+temp buffer : 201, 57, 56, 55, 54, 53, 52, 51, 71, 91, 111, 200, 98, 200, 101, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 57, 56, 55, 54, 53, 52, 51, 71, 91, 111, 200, 98, 200, 101, 200, 31, 200, 12, 
+
+Frame number 415
+temp buffer :  length=0
+NOT PURE : 
+w sent...
+
+Frame number 416
+temp buffer : 201, 37, 57, 56, 55, 54, 53, 52, 51, 71, 91, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 37, 57, 56, 55, 54, 53, 52, 51, 71, 91, 200, 98, 200, 120, 200, 31, 200, 12, 
+w sent...
+
+Frame number 417
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 418
+temp buffer : 201, 17, 37, 57, 56, 55, 54, 53, 52, 51, 71, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 17, 37, 57, 56, 55, 54, 53, 52, 51, 71, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 419
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 420
+temp buffer : 201, 157, 17, 37, 57, 56, 55, 54, 53, 52, 51, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 157, 17, 37, 57, 56, 55, 54, 53, 52, 51, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 421
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 422
+temp buffer : 201, 137, 157, 17, 37, 57, 56, 55, 54, 53, 52, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 137, 157, 17, 37, 57, 56, 55, 54, 53, 52, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 423
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 424
+temp buffer : 201, 117, 137, 157, 17, 37, 57, 56, 55, 54, 53, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 117, 137, 157, 17, 37, 57, 56, 55, 54, 53, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 425
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 426
+temp buffer : 201, 97, 117, 137, 157, 17, 37, 57, 56, 55, 54, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 97, 117, 137, 157, 17, 37, 57, 56, 55, 54, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 427
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 428
+temp buffer : 201, 77, 97, 117, 137, 157, 17, 37, 57, 56, 55, 200, 98, 200, 120, 200, 31, 200, 12, 202,  length=20
+start = 1 end = 19
+PURE BUFFER : 77, 97, 117, 137, 157, 17, 37, 57, 56, 55, 200, 98, 200, 120, 200, 31, 200, 12, 
+
+Frame number 429
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 430
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 431
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 432
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 433
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 434
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 435
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 436
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 437
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 438
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 439
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 440
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 441
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 442
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 443
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 444
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 445
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 446
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 447
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 448
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 449
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 450
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 451
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 452
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 453
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 454
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 455
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 456
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 457
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 458
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 459
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 460
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 461
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 462
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 463
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 464
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 465
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 466
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 467
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 468
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 469
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 470
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 471
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 472
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 473
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 474
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 475
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 476
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 477
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 478
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 479
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 480
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 481
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 482
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 483
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 484
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 485
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 486
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 487
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 488
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 489
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 490
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 491
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 492
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 493
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 494
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 495
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 496
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 497
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 498
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 499
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 500
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 501
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 502
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 503
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 504
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 505
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 506
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 507
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 508
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 509
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 510
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 511
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 512
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 513
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 514
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 515
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 516
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 517
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 518
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 519
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 520
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 521
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 522
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 523
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 524
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 525
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 526
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 527
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 528
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 529
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 530
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 531
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 532
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 533
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 534
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 535
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 536
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 537
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 538
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 539
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 540
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 541
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 542
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 543
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 544
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 545
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 546
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 547
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 548
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 549
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 550
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 551
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 552
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 553
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 554
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 555
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 556
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 557
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 558
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 559
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 560
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 561
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 562
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 563
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 564
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 565
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 566
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 567
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 568
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 569
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 570
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 571
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 572
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 573
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 574
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 575
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 576
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 577
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 578
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 579
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 580
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 581
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 582
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 583
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 584
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 585
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 586
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 587
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 588
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 589
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 590
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 591
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 592
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 593
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 594
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 595
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 596
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 597
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 598
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 599
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 600
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 601
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 602
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 603
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 604
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 605
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 606
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 607
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 608
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 609
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 610
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 611
+temp buffer :  length=0
+NOT PURE : 
+
+Frame number 612
+temp buffer :  length=0
+NOT PURE : 
